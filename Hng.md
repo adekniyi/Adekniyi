@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
     NAME: ADEKUNLE ADENIYI
     EMAIL: ADEKNiYI@GMAIL.COM
     SLACK USERNAME: ADEKNiYI
     TRACK: FRONT END AND BACKEND
     COURSES: C#, HTML, CSS, JAVASCRIPT, NODE.JS
-   </body>
-</html>
